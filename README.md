@@ -1,2 +1,1 @@
-# pyfastSSC
-Python wrapper for FastSSC.jl
+Install with pip install .

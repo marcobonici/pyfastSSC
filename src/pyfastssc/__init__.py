@@ -1,0 +1,1 @@
+from pyfastssc.pyfastssc import *
